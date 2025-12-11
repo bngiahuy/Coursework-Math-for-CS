@@ -12,6 +12,12 @@
 
 PhD. Nguyễn An Khương
 
+## Summary
+
+- `Main_Report_Cơ_sở_Toán_cho_KHMT_Momentum.ipynb`: The main report notebook containing explanations, derivations, and visualizations related to the Momentum optimization algorithm.
+- `Appendix_Nesterov_Accelerated_Gradient.ipynb`: An additional notebook exploring the Nesterov Accelerated Gradient method, which is an extension of the Momentum optimization technique.
+- `(not yet available)` : A presentation summarizing the key concepts and findings from the report and appendix notebooks.
+
 ## Reference
 
 Link to chapter D2L: https://d2l.ai/chapter_optimization/momentum.html
